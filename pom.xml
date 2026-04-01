@@ -210,7 +210,7 @@
     </build>
     <repository>
         <id>maven-releases</id>
-        <url>http://<NEXUS-IP>:8081/repository/maven-releases/</url>
+        <url>http://localhost:8081/repository/maven-releases/</url>
     </repository>
 
     <snapshotRepository>
