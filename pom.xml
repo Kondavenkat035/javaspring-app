@@ -216,7 +216,7 @@
 
     <snapshotRepository>
         <id>maven-snapshots</id>
-        <url>http://<NEXUS-IP>:8081/repository/maven-snapshots/</url>
+        <url>http://localhost:8081/repository/maven-releases/</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
